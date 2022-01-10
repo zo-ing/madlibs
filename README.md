@@ -13,4 +13,5 @@ First you will need to download Python and open IDLE, which is Python's own deve
 4. In IDLE, open the script to run it
 5. Once the script is open, in IDLE's navigation menu, navigate to 'Run' and click on 'Run Module'
 6. This will cause the script to run in IDLE's shell window
-7. Answer the prompts and have fun!
+
+Now you can answer the prompts and have fun!
